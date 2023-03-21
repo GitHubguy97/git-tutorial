@@ -1,2 +1,2 @@
 console.log("config.js")
-console.log("verion_1")
+console.log("verion_2")
